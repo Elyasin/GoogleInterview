@@ -10,3 +10,7 @@ Design and write a compiler to process prefix notation, e.g.
 
 **+ 1 3 * 5 7**
 
+Challenge: 
+Design and implement error processing (syntactic and semantic checks).
+
+**+ * 1 2 * 3 4 * 4 5** should be a valid input.
